@@ -1,4 +1,4 @@
-# MacOS Forensics Tools
+# 🍎 MacOS Forensics Tools
 
 ## Triage Collectors
 
