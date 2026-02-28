@@ -9,7 +9,7 @@
 
 ## Windows Event Logs Analyzers
 <ul>
-  <li><a href="https://github.com/ahmedkhlief/APT-Hunter" title="APT-Huner">APT-Huner</a></li>
+  <li><a href="https://github.com/ahmedkhlief/APT-Hunter" title="APT-Hunter">APT-Hunter</a></li>
   <li><a href="https://github.com/WithSecureLabs/chainsaw" title="Chainsaw">Chainsaw</a></li>
   <li><a href="https://github.com/sans-blue-team/DeepBlueCLI" title="DeepBlueCLI">DeepBlueCLI</a></li>
   <li><a href="https://github.com/Yamato-Security/hayabusa" title="Hayabysa">Hayabusa</a></li>
