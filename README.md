@@ -34,7 +34,7 @@
   <li><a href="https://github.com/504ensicsLabs/LiME" title="Acquisition Tools - ">LiME</a> (Linux Memory Extractor)</li>
 </ul>
 
-## Disk Images Analyzer/Viewers
+## Disk Images Analyzers/Viewers
 
 <ul>
   <li><a href="https://sleuthkit.org/autopsy/" title="Disk Images Analyzer/Viewers - Autopsy">Autopsy</a></li>
