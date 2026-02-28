@@ -20,7 +20,7 @@
   <li><a href="https://ericzimmerman.github.io/#!index.md" title="Eric Zimmerman's Tools">Eric Zimmerman's Tools (EZ Tools)</a></li>
 </ul>
 
-## Remote Desktop Cache
+## Remote Desktop Cache Analyzers
 <ul>
   <li><a href="https://github.com/ANSSI-FR/bmc-tools/" title="BMC-Tools">BMC-Tools</a></li>
   <li><a href="https://github.com/BSI-Bund/RdpCacheStitcher" title="RdpCacheStitcher">RdpCacheStitcher</a></li>
