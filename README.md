@@ -16,6 +16,24 @@
 
 # 🛠️ Support Tools
 
+## Acquisition Tools
+
+### Disk Imaging
+
+<ul>
+  <li><a href="https://www.exterro.com/digital-forensics-software/ftk-imager" title="Acquisition Tools - FTK Imager">FTK Imager</a> (Windows)</li>
+  <li><a href="https://github.com/cyberknightX/Guymager" title="Acquisition Tools - GuyMager">GuyMager</a> (Linux)</li>
+</ul>
+
+### Memory
+
+<ul>
+  <li><a href="https://github.com/microsoft/avml" title="Acquisition Tools - AVML (Acquire Volatile Memory for Linux)">AVML</a> (Acquire Volatile Memory for Linux)</li>
+  <li><a href="https://www.magnetforensics.com/resources/magnet-dumpit-for-windows/" title="Acquisition Tools - DumpIt">DumpIt</a></li>
+  <li><a href="https://www.exterro.com/digital-forensics-software/ftk-imager" title="Acquisition Tools - FTK Imager">FTK Imager</a></li>
+  <li><a href="https://github.com/504ensicsLabs/LiME" title="Acquisition Tools - ">LiME</a> (Linux Memory Extractor)</li>
+</ul>
+
 ## Incident Response Management Tools
 
 ### For Individuals
