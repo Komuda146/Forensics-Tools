@@ -11,8 +11,14 @@
 
 # Support Tools
 
-## Incident Response
+## Incident Response (Documentation)
 
 <ul>
   <li><a href="https://github.com/cyb3rfox/Aurora-Incident-Response" title="Incident Response - Aurora Incident Response">Aurora Incident Response</a></li>
+</ul>
+
+## Cyber Swiss army knife (data-related operations)
+
+<ul>
+  <li><a href="https://gchq.github.io/CyberChef/" title="Cyber Swiss army knife - CyberChef">CyberChef</a></li>
 </ul>
