@@ -47,15 +47,12 @@
 
 ### For Individuals
 
-<ul>
-  <li><a href="https://github.com/cyb3rfox/Aurora-Incident-Response" title="Incident Response Management Tools - Aurora Incident Response">Aurora Incident Response</a></li>
-</ul>
+- [Aurora Incident Response](https://github.com/cyb3rfox/Aurora-Incident-Response)
+- [Kanvas for Incident Response](https://kanvas-ir.org/)
 
 ###  For Teams
 
-<ul>
-  <li><a href="https://github.com/dfir-iris/iris-web" title="Incident Response Management Tools - DFIR IRIS">DFIR IRIS</a></li>
-</ul>
+[DFIR IRIS](https://github.com/dfir-iris/iris-web)
 
 ##  Cyber Swiss army knife (data-related operations)
 
