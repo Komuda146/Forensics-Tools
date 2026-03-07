@@ -29,3 +29,4 @@
 - [SysInternals](https://learn.microsoft.com/en-us/sysinternals/downloads/sysinternals-suite)
 - [Live-Forensicator](https://github.com/Johnng007/Live-Forensicator)
 - [PersistenceSniper](https://github.com/last-byte/PersistenceSniper)
+- [**Py**rsistenceSniper](https://github.com/hexastrike/PyrsistenceSniper) (PersistenceSniper port to Python)
